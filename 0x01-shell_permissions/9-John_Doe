@@ -1,3 +1,4 @@
 #!/bin/bash
 chmod 756 hello
 chmod 756 1 julien julien 23 Sep 20 14:25 hello
+ls -l /bin/bash
